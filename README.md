@@ -14,10 +14,10 @@ Fields in EmailModel:
 > Technologies used:
 
 <table>
-<tr>
-<td align="center">Java</td>
-<td align="center">Spring Boot (Web, Validation, Data Jpa, Mail)</td>
-<td align="center">MySQL</td>
+<tr align="center">
+<td>Java</td>
+<td>Spring Boot (Web, Validation, Data Jpa, Mail)</td>
+<td>MySQL</td>
 </tr>
 
 <tr align="center">

@@ -15,15 +15,15 @@ Fields in EmailModel:
 
 <table>
 <tr>
-<td>Java</td>
-<td>Spring Boot (Web, Validation, Data Jpa, Mail)</td>
-<td>MySQL</td>
+<td align="center">Java</td>
+<td align="center">Spring Boot (Web, Validation, Data Jpa, Mail)</td>
+<td align="center">MySQL</td>
 </tr>
 
 <tr>
-<td>11</td>
-<td>2.7.10</td>
-<td>8.0</td>
+<td align="center">11</td>
+<td align="center">2.7.10</td>
+<td align="center">8.0</td>
 </tr>
 </table>
 

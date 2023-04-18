@@ -1,4 +1,15 @@
-<h1>Microservice to send email</h1>
+<h1>Microservice to send email 📧</h1>
+
+Fields in EmailModel:
+
++ id
++ ownerRef
++ emailFrom
++ emailTo
++ subject
++ text
++ sendDateEmail
++ statusEmail
 
 > Technologies used:
 

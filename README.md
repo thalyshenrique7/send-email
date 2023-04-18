@@ -20,10 +20,10 @@ Fields in EmailModel:
 <td align="center">MySQL</td>
 </tr>
 
-<tr>
-<td align="center">11</td>
-<td align="center">2.7.10</td>
-<td align="center">8.0</td>
+<tr align="center">
+<td>11</td>
+<td>2.7.10</td>
+<td>8.0</td>
 </tr>
 </table>
 

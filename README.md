@@ -16,7 +16,7 @@ Fields in EmailModel:
 <table>
 <tr align="center">
 <td>Java</td>
-<td>Spring Boot (Web, Validation, Data Jpa, Mail)</td>
+<td>Spring Boot (Web, Validation, Data Jpa, Mail, AMQP)</td>
 <td>MySQL</td>
 </tr>
 

@@ -18,6 +18,7 @@ Fields in EmailModel:
 <td>Java</td>
 <td>Spring Boot (Web, Validation, Data Jpa, Mail, AMQP)</td>
 <td>MySQL</td>
+<td>RabbitMQ</td>
 </tr>
 
 <tr align="center">
